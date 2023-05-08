@@ -5,7 +5,7 @@ This repository provides you with a detailed guide on how to training and build 
 ## Installation
 
 ```bash
-  git clone https://github.com/Marsmallotr/License-Plate-Recognition.git
+  https://github.com/Helianthusss/License-Plate-Recognition.git
   cd License-Plate-Recognition
 
   # install dependencies using pip 
