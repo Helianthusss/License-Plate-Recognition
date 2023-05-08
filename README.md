@@ -33,11 +33,8 @@ This repository provides you with a detailed guide on how to training and build 
 ## Result
 ![Demo 1](result/image.jpg)
 
-![Vid](result/video_1.gif)
 
-## Vietnamese Plate Dataset
-
-Dataset:
+## Dataset:
 
 - [License Plate Detection Dataset](https://drive.google.com/file/d/1xchPXf7a1r466ngow_W_9bittRqQEf_T/view?usp=sharing)
 - [Character Detection Dataset](https://drive.google.com/file/d/1bPux9J0e1mz-_Jssx4XX1-wPGamaS8mI/view?usp=sharing)
