@@ -31,7 +31,11 @@ This repository provides you with a detailed guide on how to training and build 
 ```
 
 ## Result
+
+#### Image  demo
 ![Demo](License-Plate-Recognition/result/image.jpg)
+
+#### Video demo
 ![Video](License-Plate-Recognition/result/video_1.gif)
 
 
