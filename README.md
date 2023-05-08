@@ -31,7 +31,8 @@ This repository provides you with a detailed guide on how to training and build 
 ```
 
 ## Result
-![Demo 1](result/image.jpg)
+![Demo 1](result/1.jpg)
+![Vid](result/video_1.gif)
 
 
 ## Dataset:
